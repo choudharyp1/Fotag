@@ -1,7 +1,5 @@
 <h1>Fotag (p2choudh)</h1>
 
-This is the final assignment for the CS 349 Fall 2018 Course.
-
 This is an Image Viewer that allows users to browse, rate and filter images based
 on the image ratings.
 
@@ -21,4 +19,3 @@ Popup Window:
 Click on the image on the Main Activity to launch the popup window. You can also
 change rating or clear it through the Popup window.
 To dismiss the window, click once again on the now, enlarged image.
-# Fotag
